@@ -726,7 +726,7 @@ Install the network Service (Neutron)
 
 * Configure Compute to use Networking::
 
-    add in /etc/nova/nova.conf
+    ## add in /etc/nova/nova.conf
         
     vi /etc/nova/nova.conf
     
